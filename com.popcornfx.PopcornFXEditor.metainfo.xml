@@ -17,6 +17,10 @@
     <p>PopcornFX - Persistant Studios develops a suite of tools dedicated to realtime visual effects creation along with ready-to-run mainstream Game Engine integrations (Unreal Engine, Unity, O3DE) and a Runtime simulation framework for custom integration.</p>
     <p>The PopcornFX Editor is a suite of tools dedicated to effects creation and management of related assets.</p>
   </description>
+  <branding>
+    <color type="primary" scheme_preference="light">#009ace</color>
+    <color type="primary" scheme_preference="dark">#00759c</color>
+  </branding>
   <screenshots>
     <screenshot type="default">
       <image>https://www.popcornfx.com/wp-content/uploads/2021/09/1_EffectEditor_Layergraph.jpg</image>
